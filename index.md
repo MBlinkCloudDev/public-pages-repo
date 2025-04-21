@@ -1,6 +1,11 @@
-## h2
+---
+title: "Home"
+---
 
-- content
+# Welcome
 
-### h3
-another content
+This is my knowledge base.  
+Navigate using the links below.
+
+- [Getting Started](docs/getting-started.md)
+- [DevOps Notes](docs/devops.md)
